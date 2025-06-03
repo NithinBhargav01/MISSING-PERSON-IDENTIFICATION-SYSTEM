@@ -1,4 +1,3 @@
-MISSING PERSON IDENTIFICATION SYSTEM DISCRIPTION
 # MISSING PERSON IDENTIFICATION SYSTEM DISCRIPTION!
 MISSING PERSON IDENTIFICATION SYSTEM DISCRIPTION is an innovative project aimed at leveraging cutting-edge technology to help reunite missing individuals with their loved ones. Our user-friendly system, built using Django, HTML, CSS, JavaScript, OpenCV, and the `facerecognition` library, combines a smooth UI with robust functionality to ensure an efficient and seamless experience for all users.
 
